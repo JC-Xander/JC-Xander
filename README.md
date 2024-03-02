@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @JC-Xander
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```
+  ──╔╗──╔═╗╔═╗───────╔╗
+  ──║║──╚╗╚╝╔╝───────║║
+  ──║║───╚╗╔╝╔══╦═╗╔═╝╠══╦═╗
+  ╔╗║╠══╗╔╝╚╗║╔╗║╔╗╣╔╗║║═╣╔╝
+  ║╚╝╠══╬╝╔╗╚╣╔╗║║║║╚╝║║═╣║
+  ╚══╝──╚═╝╚═╩╝╚╩╝╚╩══╩══╩╝
+```
+- 💻 Programador casual.
+- 🇭🇳
 
-<!---
-JC-Xander/JC-Xander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>"El conocer está bien, pero el querer ir más allá puede traer consigo cosas inimaginables, capaces de hacerte desear volver a aquellos tiempos donde todo era más... ¿simple?"
