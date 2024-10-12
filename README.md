@@ -28,4 +28,3 @@ ___
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=jc-xander&color=ff55aa&label=Visitas+del+perfil)
