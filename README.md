@@ -16,15 +16,16 @@ ___
 
 <br>
 
-![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-xander&langs_count=12&layout=compact&theme=omni&custom_title=Lenguajes+m%c3%a1s+usados)
+![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-xander&langs_count=12&layout=compact&theme=tokyonight&hide_border=true&custom_title=Lenguajes+m%c3%a1s+usados)
 
 <br>
 <br>
 
-![Estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=jc-xander&hide=contribs,issues&count_private=true&show_icons=true&theme=omni&custom_title=Estad%c3%adsticas+de+JC-Xander+en+GitHub)
+![Estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=jc-xander&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estad%c3%adsticas+de+JC-Xander+en+GitHub)
 
 <br>
 </div>
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=jc-xander&color=ff55aa&label=Visitas+del+perfil)
